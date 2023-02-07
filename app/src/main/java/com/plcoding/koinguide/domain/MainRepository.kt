@@ -1,4 +1,4 @@
-package com.plcoding.koinguide
+package com.plcoding.koinguide.domain
 
 interface MainRepository {
     fun doNetworkCall()

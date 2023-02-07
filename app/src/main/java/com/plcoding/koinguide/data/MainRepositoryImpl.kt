@@ -1,4 +1,6 @@
-package com.plcoding.koinguide
+package com.plcoding.koinguide.data
+
+import com.plcoding.koinguide.domain.MainRepository
 
 class MainRepositoryImpl(
     private val api: MyApi

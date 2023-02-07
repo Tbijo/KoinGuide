@@ -1,4 +1,4 @@
-package com.plcoding.koinguide.ui.theme
+package com.plcoding.koinguide.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

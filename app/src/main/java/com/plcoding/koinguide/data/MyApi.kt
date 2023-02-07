@@ -1,4 +1,4 @@
-package com.plcoding.koinguide
+package com.plcoding.koinguide.data
 
 import retrofit2.http.GET
 
