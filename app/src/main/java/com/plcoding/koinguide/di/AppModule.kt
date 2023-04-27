@@ -35,6 +35,6 @@ val appModule = module {
     // opposite to single {  }
 
     viewModel {
-        MainViewModel(get())
+        MainViewModel(get(), get())
     }
 }
